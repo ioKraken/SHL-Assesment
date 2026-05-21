@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: shl-assessment-agent
+    runtime: python
+    region: oregon
+    buildCommand: pip install -r requirements.txt && python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('all-MiniLM-L6-v2')"
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    plan: free
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GEMINI_MODEL
+        value: gemini-2.0-flash
+      - key: PYTHON_VERSION
+        value: "3.11"

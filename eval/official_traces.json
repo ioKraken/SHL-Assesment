@@ -1,0 +1,226 @@
+[
+  {
+    "id": "C1",
+    "first_user_message": "We need a solution for senior leadership.",
+    "user_messages": [
+      "We need a solution for senior leadership.",
+      "The pool consists of CXOs, director-level postions; people with more than 15 years of experience.",
+      "Selection \u2014 comparing candidates against a leadership benchmark.",
+      "Perfect, that's what we need."
+    ],
+    "expected_urls": [
+      "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+      "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+      "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/"
+    ],
+    "expected_names": [
+      "Occupational Personality Questionnaire OPQ32r",
+      "OPQ Universal Competency Report 2.0",
+      "OPQ Leadership Report"
+    ]
+  },
+  {
+    "id": "C2",
+    "first_user_message": "I'm hiring a senior Rust engineer for high-performance networking infrastructure. What assessments should I use?",
+    "user_messages": [
+      "I'm hiring a senior Rust engineer for high-performance networking infrastructure. What assessments should I use?",
+      "Yes, go ahead. Should I also add a cognitive test for this level?",
+      "That works. Thanks."
+    ],
+    "expected_urls": [
+      "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+      "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+      "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+      "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+      "https://www.shl.com/products/product-catalog/view/linux-programming-general/"
+    ],
+    "expected_names": [
+      "Smart Interview Live Coding",
+      "Linux Programming (General)",
+      "Networking and Implementation (New)",
+      "SHL Verify Interactive G+",
+      "Occupational Personality Questionnaire OPQ32r"
+    ]
+  },
+  {
+    "id": "C3",
+    "first_user_message": "We're screening 500 entry-level contact centre agents. Inbound calls, customer service focus. What should we use?",
+    "user_messages": [
+      "We're screening 500 entry-level contact centre agents. Inbound calls, customer service focus. What should we use?",
+      "English.",
+      "US.",
+      "Is the Contact Center Call Simulation different from the Customer Service Phone Simulation?",
+      "Perfect \u2014 new simulation for volume, old solution for finalists. Confirmed."
+    ],
+    "expected_urls": [
+      "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+      "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+      "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+      "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/"
+    ],
+    "expected_names": [
+      "SVAR Spoken English (US) (New)",
+      "Contact Center Call Simulation (New)",
+      "Entry Level Customer Serv - Retail & Contact Center",
+      "Customer Service Phone Simulation"
+    ]
+  },
+  {
+    "id": "C4",
+    "first_user_message": "Hiring graduate financial analysts \u2014 final-year students, no work experience. We need numerical reasoning and a finance knowledge test.",
+    "user_messages": [
+      "Hiring graduate financial analysts \u2014 final-year students, no work experience. We need numerical reasoning and a finance knowledge test.",
+      "Good. Can you also add a situational judgement element \u2014 work-context decision making for graduates?",
+      "That covers it. Numerical + Graduate Scenarios as first filter, domain tests for shortlisted candidates."
+    ],
+    "expected_urls": [
+      "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+      "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+      "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+      "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+      "https://www.shl.com/products/product-catalog/view/basic-statistics-new/"
+    ],
+    "expected_names": [
+      "SHL Verify Interactive \u2013 Numerical Reasoning",
+      "Financial Accounting (New)",
+      "Basic Statistics (New)",
+      "Graduate Scenarios",
+      "Occupational Personality Questionnaire OPQ32r"
+    ]
+  },
+  {
+    "id": "C5",
+    "first_user_message": "As part of our restructuring and annual talent audit, we need to re-skill our Sales organization. What solutions do you recommend?",
+    "user_messages": [
+      "As part of our restructuring and annual talent audit, we need to re-skill our Sales organization. What solutions do you recommend?",
+      "What\u2019s the difference between OPQ and OPQ MQ Sales Report?",
+      "Clear. We\u2019ll use OPQ for everyone and add MQ only where we want motivators in the Sales Report; keeping the five solutions as our audit stack."
+    ],
+    "expected_urls": [
+      "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+      "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+      "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+      "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+      "https://www.shl.com/products/product-catalog/view/global-skills-assessment/"
+    ],
+    "expected_names": [
+      "Global Skills Assessment",
+      "Global Skills Development Report",
+      "Occupational Personality Questionnaire OPQ32r",
+      "OPQ MQ Sales Report",
+      "Sales Transformation 2.0 - Individual Contributor"
+    ]
+  },
+  {
+    "id": "C6",
+    "first_user_message": "We're hiring plant operators for a chemical facility. Safety is absolute top priority \u2014 reliability, procedure compliance, never cutting corners. What do you recommend?",
+    "user_messages": [
+      "We're hiring plant operators for a chemical facility. Safety is absolute top priority \u2014 reliability, procedure compliance, never cutting corners. What do you recommend?",
+      "What's the difference between the DSI and the Safety & Dependability 8.0?",
+      "We're industrial. The 8.0 bundle is the right fit. Confirmed."
+    ],
+    "expected_urls": [
+      "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+      "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/"
+    ],
+    "expected_names": [
+      "Manufac. & Indust. - Safety & Dependability 8.0",
+      "Workplace Health and Safety (New)"
+    ]
+  },
+  {
+    "id": "C7",
+    "first_user_message": "We're hiring bilingual healthcare admin staff in South Texas \u2014 they handle patient records and need to be assessed in Spanish. HIPAA compliance is critical. What assessments work?",
+    "user_messages": [
+      "We're hiring bilingual healthcare admin staff in South Texas \u2014 they handle patient records and need to be assessed in Spanish. HIPAA compliance is critical. What assessments work?",
+      "They're functionally bilingual \u2014 English fluent for written work. Go with the hybrid.",
+      "Are we legally required under HIPAA to test all staff who touch patient records? And does this SHL test satisfy that requirement?",
+      "Understood. Keep the shortlist as-is."
+    ],
+    "expected_urls": [
+      "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+      "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+      "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+      "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+      "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/"
+    ],
+    "expected_names": [
+      "HIPAA (Security)",
+      "Medical Terminology (New)",
+      "Microsoft Word 365 - Essentials (New)",
+      "Dependability and Safety Instrument (DSI)",
+      "Occupational Personality Questionnaire OPQ32r"
+    ]
+  },
+  {
+    "id": "C8",
+    "first_user_message": "I need to quickly screen admin assistants for Excel and Word daily.",
+    "user_messages": [
+      "I need to quickly screen admin assistants for Excel and Word daily.",
+      "In that case, I am OK with adding a simulation - we want to capture the capabilties.",
+      "That's good."
+    ],
+    "expected_urls": [
+      "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+      "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+      "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+      "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+      "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/"
+    ],
+    "expected_names": [
+      "Microsoft Excel 365 (New)",
+      "Microsoft Word 365 (New)",
+      "MS Excel (New)",
+      "MS Word (New)",
+      "Occupational Personality Questionnaire OPQ32r"
+    ]
+  },
+  {
+    "id": "C9",
+    "first_user_message": "Here's the JD for an engineer we need to fill. Can you recommend an assessment battery?",
+    "user_messages": [
+      "Here's the JD for an engineer we need to fill. Can you recommend an assessment battery?\n\n\"Senior Full-Stack Engineer \u2014 5+ years across Core Java, Spring, REST API design, Angular, SQL/relational databases, AWS deployment, and Docker. Will own end-to-end microservice delivery, contribute to architectural decisions, and mentor mid-level engineers. Strong CI/CD and cloud-native experience required.\"",
+      "Backend-leaning. Day-one priorities are Core Java and Spring; SQL is constant. Angular is occasional \u2014 they'd review frontend PRs but not own features.",
+      "Senior IC. They lead design on their own services but don't manage other engineers directly.",
+      "Add AWS and Docker. Drop REST \u2014 the API design signal will already come through in Spring and the live interview.",
+      "On Java \u2014 they'd be working on existing services, not greenfield. Is the Advanced level the right pick?",
+      "Do we really need Verify G+ on top of all the technical tests? Feels redundant.",
+      "Keep Verify G+. Locking it in."
+    ],
+    "expected_urls": [
+      "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+      "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+      "https://www.shl.com/products/product-catalog/view/sql-new/",
+      "https://www.shl.com/products/product-catalog/view/spring-new/",
+      "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+      "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+      "https://www.shl.com/products/product-catalog/view/docker-new/"
+    ],
+    "expected_names": [
+      "Core Java (Advanced Level) (New)",
+      "Spring (New)",
+      "SQL (New)",
+      "Amazon Web Services (AWS) Development (New)",
+      "Docker (New)",
+      "SHL Verify Interactive G+",
+      "Occupational Personality Questionnaire OPQ32r"
+    ]
+  },
+  {
+    "id": "C10",
+    "first_user_message": "We run a graduate management trainee scheme. We need a full battery \u2014 cognitive, personality, and situational judgement. All recent graduates.",
+    "user_messages": [
+      "We run a graduate management trainee scheme. We need a full battery \u2014 cognitive, personality, and situational judgement. All recent graduates.",
+      "But can you remove the OPQ32r and replace it with something shorter? Candidates complain it takes too long.",
+      "Drop the OPQ. Final list: Verify G+ and Graduate Scenarios."
+    ],
+    "expected_urls": [
+      "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+      "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/"
+    ],
+    "expected_names": [
+      "SHL Verify Interactive G+",
+      "Graduate Scenarios"
+    ]
+  }
+]

@@ -1,0 +1,181 @@
+{
+  "mean_recall_at_10": 0.31261904761904763,
+  "schema_pass": 10,
+  "url_pass": 10,
+  "total_traces": 10,
+  "traces": [
+    {
+      "id": "C1",
+      "first_message": "We need a solution for senior leadership.",
+      "expected_count": 3,
+      "schema_pass": true,
+      "urls_in_catalog": true,
+      "recall_at_10": 0.3333333333333333,
+      "num_recs": 10,
+      "issues": [],
+      "hits": [
+        "\u2713 Occupational Personality Questionnaire OPQ32r",
+        "\u2717 OPQ Universal Competency Report 2.0",
+        "\u2717 OPQ Leadership Report"
+      ],
+      "reply_preview": "Based on your requirements, here are the most relevant SHL assessments I'd recommend. Each assessmen"
+    },
+    {
+      "id": "C2",
+      "first_message": "I'm hiring a senior Rust engineer for high-performance networking infrastructure",
+      "expected_count": 5,
+      "schema_pass": true,
+      "urls_in_catalog": true,
+      "recall_at_10": 0.2,
+      "num_recs": 10,
+      "issues": [],
+      "hits": [
+        "\u2717 Smart Interview Live Coding",
+        "\u2717 Linux Programming (General)",
+        "\u2713 Networking and Implementation (New)",
+        "\u2717 SHL Verify Interactive G+",
+        "\u2717 Occupational Personality Questionnaire OPQ32r"
+      ],
+      "reply_preview": "Based on your requirements, here are the most relevant SHL assessments I'd recommend. Each assessmen"
+    },
+    {
+      "id": "C3",
+      "first_message": "We're screening 500 entry-level contact centre agents. Inbound calls, customer s",
+      "expected_count": 4,
+      "schema_pass": true,
+      "urls_in_catalog": true,
+      "recall_at_10": 0.75,
+      "num_recs": 10,
+      "issues": [],
+      "hits": [
+        "\u2713 SVAR Spoken English (US) (New)",
+        "\u2713 Contact Center Call Simulation (New)",
+        "\u2713 Entry Level Customer Serv - Retail & Contact Center",
+        "\u2717 Customer Service Phone Simulation"
+      ],
+      "reply_preview": "Based on your requirements, here are the most relevant SHL assessments I'd recommend. Each assessmen"
+    },
+    {
+      "id": "C4",
+      "first_message": "Hiring graduate financial analysts \u2014 final-year students, no work experience. We",
+      "expected_count": 5,
+      "schema_pass": true,
+      "urls_in_catalog": true,
+      "recall_at_10": 0.2,
+      "num_recs": 10,
+      "issues": [],
+      "hits": [
+        "\u2717 SHL Verify Interactive \u2013 Numerical Reasoning",
+        "\u2717 Financial Accounting (New)",
+        "\u2717 Basic Statistics (New)",
+        "\u2717 Graduate Scenarios",
+        "\u2713 Occupational Personality Questionnaire OPQ32r"
+      ],
+      "reply_preview": "Based on your requirements, here are the most relevant SHL assessments I'd recommend. Each assessmen"
+    },
+    {
+      "id": "C5",
+      "first_message": "As part of our restructuring and annual talent audit, we need to re-skill our Sa",
+      "expected_count": 5,
+      "schema_pass": true,
+      "urls_in_catalog": true,
+      "recall_at_10": 0.6,
+      "num_recs": 10,
+      "issues": [],
+      "hits": [
+        "\u2717 Global Skills Assessment",
+        "\u2713 Global Skills Development Report",
+        "\u2717 Occupational Personality Questionnaire OPQ32r",
+        "\u2713 OPQ MQ Sales Report",
+        "\u2713 Sales Transformation 2.0 - Individual Contributor"
+      ],
+      "reply_preview": "Based on your requirements, here are the most relevant SHL assessments I'd recommend. Each assessmen"
+    },
+    {
+      "id": "C6",
+      "first_message": "We're hiring plant operators for a chemical facility. Safety is absolute top pri",
+      "expected_count": 2,
+      "schema_pass": true,
+      "urls_in_catalog": true,
+      "recall_at_10": 0.0,
+      "num_recs": 10,
+      "issues": [],
+      "hits": [
+        "\u2717 Manufac. & Indust. - Safety & Dependability 8.0",
+        "\u2717 Workplace Health and Safety (New)"
+      ],
+      "reply_preview": "Based on your requirements, here are the most relevant SHL assessments I'd recommend. Each assessmen"
+    },
+    {
+      "id": "C7",
+      "first_message": "We're hiring bilingual healthcare admin staff in South Texas \u2014 they handle patie",
+      "expected_count": 5,
+      "schema_pass": true,
+      "urls_in_catalog": true,
+      "recall_at_10": 0.2,
+      "num_recs": 10,
+      "issues": [],
+      "hits": [
+        "\u2717 HIPAA (Security)",
+        "\u2717 Medical Terminology (New)",
+        "\u2717 Microsoft Word 365 - Essentials (New)",
+        "\u2717 Dependability and Safety Instrument (DSI)",
+        "\u2713 Occupational Personality Questionnaire OPQ32r"
+      ],
+      "reply_preview": "Based on your requirements, here are the most relevant SHL assessments I'd recommend. Each assessmen"
+    },
+    {
+      "id": "C8",
+      "first_message": "I need to quickly screen admin assistants for Excel and Word daily.",
+      "expected_count": 5,
+      "schema_pass": true,
+      "urls_in_catalog": true,
+      "recall_at_10": 0.2,
+      "num_recs": 10,
+      "issues": [],
+      "hits": [
+        "\u2717 Microsoft Excel 365 (New)",
+        "\u2717 Microsoft Word 365 (New)",
+        "\u2713 MS Excel (New)",
+        "\u2717 MS Word (New)",
+        "\u2717 Occupational Personality Questionnaire OPQ32r"
+      ],
+      "reply_preview": "Based on your requirements, here are the most relevant SHL assessments I'd recommend. Each assessmen"
+    },
+    {
+      "id": "C9",
+      "first_message": "Here's the JD for an engineer we need to fill. Can you recommend an assessment b",
+      "expected_count": 7,
+      "schema_pass": true,
+      "urls_in_catalog": true,
+      "recall_at_10": 0.14285714285714285,
+      "num_recs": 10,
+      "issues": [],
+      "hits": [
+        "\u2717 Core Java (Advanced Level) (New)",
+        "\u2717 Spring (New)",
+        "\u2717 SQL (New)",
+        "\u2717 Amazon Web Services (AWS) Development (New)",
+        "\u2717 Docker (New)",
+        "\u2717 SHL Verify Interactive G+",
+        "\u2713 Occupational Personality Questionnaire OPQ32r"
+      ],
+      "reply_preview": "Based on your requirements, here are the most relevant SHL assessments I'd recommend. Each assessmen"
+    },
+    {
+      "id": "C10",
+      "first_message": "We run a graduate management trainee scheme. We need a full battery \u2014 cognitive,",
+      "expected_count": 2,
+      "schema_pass": true,
+      "urls_in_catalog": true,
+      "recall_at_10": 0.5,
+      "num_recs": 10,
+      "issues": [],
+      "hits": [
+        "\u2717 SHL Verify Interactive G+",
+        "\u2713 Graduate Scenarios"
+      ],
+      "reply_preview": "Based on your requirements, here are the most relevant SHL assessments I'd recommend. Each assessmen"
+    }
+  ]
+}
