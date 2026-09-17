@@ -1,4 +1,4 @@
-# SHL Assessment Recommender Agent
+# Assessment Recommendation and Retrieval API
 
 A **conversational AI agent** that helps hiring managers and recruiters discover the right SHL assessments through natural dialogue. Built as a stateless FastAPI service with RAG (Retrieval-Augmented Generation).
 
@@ -7,7 +7,7 @@ A **conversational AI agent** that helps hiring managers and recruiters discover
 ```
 User → POST /chat → Agent Controller → FAISS Retriever → Gemini LLM → Validated Response
                                               ↑
-                                     377 SHL Assessments
+                                     377 
                                      (pre-indexed vectors)
 ```
 
